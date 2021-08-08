@@ -1,4 +1,4 @@
-# Market Segmentation Prediction using naive bayes [Python3]
+# Market Segmentation Prediction Using Naive Bayes [Python3]
 
 Market Segmentation Prediction is a machine learning model that is used to predict market segmentation based on married, age, graduated, work experience, spending score, and family.
 
