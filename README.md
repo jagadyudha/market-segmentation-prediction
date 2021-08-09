@@ -24,7 +24,7 @@ pip3 install scikit-learn
 
 ## Usage
 
-open this file using https://colab.research.google.com/ or if you want to run on localhost, just install jupiter
+open this file using https://colab.research.google.com/ or if you want to run on localhost, just install jupyter
 
 ## Contributing
 
